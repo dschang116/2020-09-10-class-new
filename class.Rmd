@@ -50,7 +50,7 @@ ggplot(x, aes(mean_age)) +
 
 ```{r}
 
-
+ggplot()
 
 ```
 
